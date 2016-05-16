@@ -17,17 +17,17 @@
 //  See the License for the specific language governing permissions and
 //  limitations under the License.
 //
-//
-//#import <CoreData/CoreData.h>
-//#import "ObjectMapping.h"
-//#import "RKManagedObjectStore.h"
-//#import "RKManagedObjectImporter.h"
-//#import "RKManagedObjectMappingOperationDataSource.h"
-//#import "RKEntityMapping.h"
-//#import "RKManagedObjectCaching.h"
-//#import "RKInMemoryManagedObjectCache.h"
-//#import "RKFetchRequestManagedObjectCache.h"
-//
-//#import "RKPropertyInspector+CoreData.h"
-//#import "NSManagedObjectContext+RKAdditions.h"
-//#import "NSManagedObject+RKAdditions.h"
+
+#import <CoreData/CoreData.h>
+#import "ObjectMapping.h"
+#import "RKManagedObjectStore.h"
+#import "RKManagedObjectImporter.h"
+#import "RKManagedObjectMappingOperationDataSource.h"
+#import "RKEntityMapping.h"
+#import "RKManagedObjectCaching.h"
+#import "RKInMemoryManagedObjectCache.h"
+#import "RKFetchRequestManagedObjectCache.h"
+
+#import "RKPropertyInspector+CoreData.h"
+#import "NSManagedObjectContext+RKAdditions.h"
+#import "NSManagedObject+RKAdditions.h"

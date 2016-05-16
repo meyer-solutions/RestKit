@@ -18,9 +18,9 @@
 //  limitations under the License.
 //
 
-//#ifndef RestKit_RKCoreData_h
-//#define RestKit_RKCoreData_h
-//
-//#import "CoreData.h"
-//
-//#endif
+#ifndef RestKit_RKCoreData_h
+#define RestKit_RKCoreData_h
+
+#import "CoreData.h"
+
+#endif
